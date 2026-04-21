@@ -1,0 +1,108 @@
+{
+    "name": "Modulstatus nach Profilen sortiert",
+    "description": "Enthält den Status belegter und abgeschlossener Module, sortiert nach Profilen.",
+    "children": [
+        {
+            "name": "Profil 1",
+            "description": "Status der Module für Profil 1",
+            "children": [
+                {
+                    "status": "belegt",
+                    "children": [
+                        {
+                            "mId": "1217"
+                        },
+                        {
+                            "mId": "3260"
+                        },
+                        {
+                            "mId": "35713"
+                        }
+                    ]
+                },
+                {
+                    "status": "abgeschlossen",
+                    "children": [
+                        {
+                            "mId": "39380"
+                        },
+                        {
+                            "mId": "48887"
+                        },
+                        {
+                            "mId": "49399"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Profil 2",
+            "description": "Status der Module für Profil 2",
+            "children": [
+                {
+                    "status": "belegt",
+                    "children": [
+                        {
+                            "mId": "1203"
+                        },
+                        {
+                            "mId": "1821"
+                        },
+                        {
+                            "mId": "35288"
+                        }
+                    ]
+                },
+                {
+                    "status": "abgeschlossen",
+                    "children": [
+                        {
+                            "mId": "43197"
+                        },
+                        {
+                            "mId": "44001"
+                        },
+                        {
+                            "mId": "47455"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Profil 3",
+            "description": "Status der Module für Profil 3",
+            "children": [
+                {
+                    "status": "belegt",
+                    "children": [
+                        {
+                            "mId": "48021"
+                        },
+                        {
+                            "mId": "44001"
+                        },
+                        {
+                            "mId": "47455"
+                        }
+                    ]
+                },
+                {
+                    "status": "abgeschlossen",
+                    "children": [
+                        {
+                            "mId": "48707"
+                        },
+                        {
+                            "mId": "49437"
+                        },
+                        {
+                            "mId": "5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

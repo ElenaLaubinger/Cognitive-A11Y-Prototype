@@ -1,0 +1,2191 @@
+{
+  "mhbId": "49550",
+  "version": 3,
+  "name": "Modulhandbuch Lorem Ipsum",
+  "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+  "semester": "Wintersemester 2025/2026",
+  "mgs": [
+    {
+      "mgId": "49407",
+      "name": "MG1 Modulgruppe 1",
+      "fullName": "MG1 Modulgruppe 1 (Modulgruppe)",
+      "desc": "<body> <p>In der Modulgruppe MG1 sind im Profil 1 Module im Umfang von 51 ECTS-Punkten, im Profil 2 im Umfang von 33 bis 42 ECTS-Punkten und im Profil 3 im Umfang von 21 bis 30 ECTS-Punkten zu absolvieren.</p> </body>",
+      "ectsMin": 0,
+      "ectsMax": 0,
+      "children": [
+        {
+          "mgId": "49408",
+          "name": "P1 Pflichtbereich 1",
+          "fullName": "P1 Pflichtbereich 1 (Pflichtbereich)",
+          "desc": "",
+          "ectsMin": 0,
+          "ectsMax": 0,
+          "children": [
+            {
+              "mgId": "49415",
+              "name": "Profil 1",
+              "fullName": "Profil 1 (Profil)",
+              "desc": "",
+              "ectsMin": 45,
+              "ectsMax": 45,
+              "modules": [
+                {
+                  "mId": "1217",
+                  "acronym": "MEYgxf-PQENmcbg-B",
+                  "name": "Sit Ut exercitation nisi quis.",
+                  "content": "Ut dolor.",
+                  "skills": "Do dolor amet ad labore.",
+                  "addInfo": "Do amet commodo enim Lorem ullamco ut minim Lorem labore consequat do aliquip consectetur consequat ullamco aliquip consequat.",
+                  "priorKnowledge": "Quis sit ullamco Ut commodo enim magna.",
+                  "ects": 9,
+                  "type": "Pflichtmodul",
+                  "term": "WS, SS",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl A",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49470,
+                      "name": "Sit Ut exercitation nisi quis.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 60,
+                      "share": "66,7"
+                    },
+                    {
+                      "meId": 49471,
+                      "name": "Sit Ut exercitation nisi quis.",
+                      "desc": "Die Hausarbeit besteht aus der Lösung von Programmieraufgaben.Die Klausur geht zu 66,7% in die Modul-Gesamtnote ein, die Hausarbeit zu 33,3%.",
+                      "duration": null,
+                      "share": "33,3"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "At vero eos et accusam et \njusto duo dolores et ea rebum.\n",
+                  "mgId": "49415"
+                },
+                {
+                  "mId": "3260",
+                  "acronym": "MLQbca-HUAGbdkc-B",
+                  "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                  "content": "Lorem magna amet consectetur quis nostrud ut sed elit quis ex et consectetur ad.",
+                  "skills": "Ea ipsum quis nostrud ullamco elit.",
+                  "addInfo": "Ipsum ipsum ea Ut labore labore ad laboris Lorem dolor nisi.",
+                  "priorKnowledge": "Aliqua tempor ea nostrud amet labore do ut do labore veniam tempor adipiscing.",
+                  "ects": 6,
+                  "type": "Pflichtmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl D",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 45417,
+                      "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 120,
+                      "share": "100,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2023",
+                  "workload": "",
+                  "mgId": "49415"
+                },
+                {
+                  "mId": "35713",
+                  "acronym": "EUQnfn-ERJNeldq-B",
+                  "name": "Ut eiusmod Ut ex ullamco.",
+                  "content": "Dolor amet adipiscing consectetur aliqua ea labore ad labore magna ut et eiusmod.",
+                  "skills": "Ullamco Ut aliqua elit.",
+                  "addInfo": "Ut veniam quis ullamco ullamco Lorem veniam labore laboris eiusmod consequat ipsum commodo enim eiusmod.",
+                  "priorKnowledge": "Exercitation sit nisi magna dolore tempor aliqua labore elit consequat exercitation et veniam Ut nisi.",
+                  "ects": 6,
+                  "type": "Pflichtmodul",
+                  "term": "WS, SS",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl F",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49880,
+                      "name": "Ut eiusmod Ut ex ullamco.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 105,
+                      "share": "100,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49415"
+                },
+                {
+                  "mId": "39380",
+                  "acronym": "PYLuts-APTBvkmf-M",
+                  "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                  "content": "Adipiscing dolore ipsum nisi ut nostrud veniam commodo veniam et.",
+                  "skills": "Consectetur dolor amet aliquip.",
+                  "addInfo": "Adipiscing consectetur adipiscing et ex ullamco do ullamco.",
+                  "priorKnowledge": "Dolore veniam aliqua eiusmod sed ea do.",
+                  "ects": 6,
+                  "type": "Pflichtmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "2",
+                  "duration": "1",
+                  "chair": "Lehrstuhl G",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49084,
+                      "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 105,
+                      "share": "100,0"
+                    }
+                  ],
+                  "prevModules": [
+                    {
+                      "name": "Adipiscing tempor laboris consectetur sed dolore ut."
+                    }
+                  ],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "15 Stunden\n150 Stunden\n",
+                  "mgId": "49415"
+                },
+                {
+                  "mId": "48887",
+                  "acronym": "KZCqbi-UAHBqvmx-M",
+                  "name": "Laboris aliqua commodo nostrud ut elit tempor ut ea sit ut nostrud.",
+                  "content": "Dolore dolor et consequat incididunt.",
+                  "skills": "Laboris eiusmod et ex ullamco ex.",
+                  "addInfo": "Ea.",
+                  "priorKnowledge": "Consequat consequat laboris dolor enim veniam exercitation ut aliquip.",
+                  "ects": 9,
+                  "type": "Pflichtmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "1",
+                  "duration": "",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 51483,
+                      "name": "Laboris aliqua commodo nostrud ut elit tempor ut ea sit ut nostrud.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 180,
+                      "share": "100,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49415"
+                },
+                {
+                  "mId": "49399",
+                  "acronym": "GGRwsa-INEAsbpp-M",
+                  "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                  "content": "Dolore Lorem ea tempor tempor dolor Ut nostrud ut tempor ut dolore consectetur veniam labore do aliqua.",
+                  "skills": "Enim minim.",
+                  "addInfo": "Dolor commodo commodo ullamco dolor ipsum tempor.",
+                  "priorKnowledge": "Eiusmod enim ipsum consectetur ipsum incididunt.",
+                  "ects": 9,
+                  "type": "Pflichtmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl E",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49401,
+                      "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 0,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49415"
+                }
+              ],
+              "parent": {
+                "mgId": "49408"
+              }
+            },
+            {
+              "mgId": "49416",
+              "name": "Profil 2",
+              "fullName": "Profil 2 (Profil)",
+              "desc": "",
+              "ectsMin": 27,
+              "ectsMax": 36,
+              "children": [
+                {
+                  "mgId": "49419",
+                  "name": "Profil 2 Pflicht",
+                  "fullName": "Profil 2 Pflicht (Pflichtbereich)",
+                  "desc": "",
+                  "ectsMin": 27,
+                  "ectsMax": 27,
+                  "modules": [
+                    {
+                      "mId": "3260",
+                      "acronym": "MLQbca-HUAGbdkc-B",
+                      "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                      "content": "Lorem magna amet consectetur quis nostrud ut sed elit quis ex et consectetur ad.",
+                      "skills": "Ea ipsum quis nostrud ullamco elit.",
+                      "addInfo": "Ipsum ipsum ea Ut labore labore ad laboris Lorem dolor nisi.",
+                      "priorKnowledge": "Aliqua tempor ea nostrud amet labore do ut do labore veniam tempor adipiscing.",
+                      "ects": 6,
+                      "type": "Pflichtmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl D",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 45417,
+                          "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 120,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2023",
+                      "workload": "",
+                      "mgId": "49419"
+                    },
+                    {
+                      "mId": "35713",
+                      "acronym": "EUQnfn-ERJNeldq-B",
+                      "name": "Ut eiusmod Ut ex ullamco.",
+                      "content": "Dolor amet adipiscing consectetur aliqua ea labore ad labore magna ut et eiusmod.",
+                      "skills": "Ullamco Ut aliqua elit.",
+                      "addInfo": "Ut veniam quis ullamco ullamco Lorem veniam labore laboris eiusmod consequat ipsum commodo enim eiusmod.",
+                      "priorKnowledge": "Exercitation sit nisi magna dolore tempor aliqua labore elit consequat exercitation et veniam Ut nisi.",
+                      "ects": 6,
+                      "type": "Pflichtmodul",
+                      "term": "WS, SS",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl F",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49880,
+                          "name": "Ut eiusmod Ut ex ullamco.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49419"
+                    },
+                    {
+                      "mId": "39380",
+                      "acronym": "PYLuts-APTBvkmf-M",
+                      "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                      "content": "Adipiscing dolore ipsum nisi ut nostrud veniam commodo veniam et.",
+                      "skills": "Consectetur dolor amet aliquip.",
+                      "addInfo": "Adipiscing consectetur adipiscing et ex ullamco do ullamco.",
+                      "priorKnowledge": "Dolore veniam aliqua eiusmod sed ea do.",
+                      "ects": 6,
+                      "type": "Pflichtmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "2",
+                      "duration": "1",
+                      "chair": "Lehrstuhl G",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49084,
+                          "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [
+                        {
+                          "name": "Adipiscing tempor laboris consectetur sed dolore ut."
+                        }
+                      ],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "60 Stunden\n 150 Stunden\n",
+                      "mgId": "49419"
+                    },
+                    {
+                      "mId": "49399",
+                      "acronym": "GGRwsa-INEAsbpp-M",
+                      "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                      "content": "Dolore Lorem ea tempor tempor dolor Ut nostrud ut tempor ut dolore consectetur veniam labore do aliqua.",
+                      "skills": "Enim minim.",
+                      "addInfo": "Dolor commodo commodo ullamco dolor ipsum tempor.",
+                      "priorKnowledge": "Eiusmod enim ipsum consectetur ipsum incididunt.",
+                      "ects": 9,
+                      "type": "Pflichtmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl E",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49401,
+                          "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 0,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49419"
+                    }
+                  ],
+                  "parent": {
+                    "mgId": "49416"
+                  }
+                },
+                {
+                  "mgId": "49420",
+                  "name": "Profil 2 Ergänzung",
+                  "fullName": "Profil 2 Ergänzung (Ergänzungsbereich)",
+                  "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+                  "ectsMin": 0,
+                  "ectsMax": 9,
+                  "modules": [
+                    {
+                      "mId": "48887",
+                      "acronym": "KZCqbi-UAHBqvmx-M",
+                      "name": "Laboris aliqua commodo nostrud ut elit tempor ut ea sit ut nostrud.",
+                      "content": "Dolore dolor et consequat incididunt.",
+                      "skills": "Laboris eiusmod et ex ullamco ex.",
+                      "addInfo": "Ea.",
+                      "priorKnowledge": "Consequat consequat laboris dolor enim veniam exercitation ut aliquip.",
+                      "ects": 9,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "1",
+                      "duration": "",
+                      "chair": "Lehrstuhl B",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 51483,
+                          "name": "Laboris aliqua commodo nostrud ut elit tempor ut ea sit ut nostrud.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 180,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2025",
+                      "workload": "",
+                      "mgId": "49420"
+                    }
+                  ],
+                  "parent": {
+                    "mgId": "49416"
+                  }
+                }
+              ],
+              "parent": {
+                "mgId": "49408"
+              }
+            },
+            {
+              "mgId": "49421",
+              "name": "Profil 3",
+              "fullName": "Profil 3 (Profil)",
+              "desc": "",
+              "ectsMin": 15,
+              "ectsMax": 27,
+              "children": [
+                {
+                  "mgId": "49422",
+                  "name": "Profil 3 Pflicht",
+                  "fullName": "Profil 3 Pflicht (Pflichtbereich)",
+                  "desc": "",
+                  "ectsMin": 15,
+                  "ectsMax": 15,
+                  "modules": [
+                    {
+                      "mId": "3260",
+                      "acronym": "MLQbca-HUAGbdkc-B",
+                      "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                      "content": "Lorem magna amet consectetur quis nostrud ut sed elit quis ex et consectetur ad.",
+                      "skills": "Ea ipsum quis nostrud ullamco elit.",
+                      "addInfo": "Ipsum ipsum ea Ut labore labore ad laboris Lorem dolor nisi.",
+                      "priorKnowledge": "Aliqua tempor ea nostrud amet labore do ut do labore veniam tempor adipiscing.",
+                      "ects": 6,
+                      "type": "Pflichtmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl D",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 45417,
+                          "name": "Adipiscing tempor laboris consectetur sed dolore ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 120,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2023",
+                      "workload": "",
+                      "mgId": "49422"
+                    },
+                    {
+                      "mId": "49399",
+                      "acronym": "GGRwsa-INEAsbpp-M",
+                      "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                      "content": "Dolore Lorem ea tempor tempor dolor Ut nostrud ut tempor ut dolore consectetur veniam labore do aliqua.",
+                      "skills": "Enim minim.",
+                      "addInfo": "Dolor commodo commodo ullamco dolor ipsum tempor.",
+                      "priorKnowledge": "Eiusmod enim ipsum consectetur ipsum incididunt.",
+                      "ects": 9,
+                      "type": "Pflichtmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl E",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49401,
+                          "name": "Aliqua ut do aliquip enim nostrud consequat tempor magna.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 0,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49422"
+                    }
+                  ],
+                  "parent": {
+                    "mgId": "49421"
+                  }
+                },
+                {
+                  "mgId": "49423",
+                  "name": "Profil 3 Ergänzung",
+                  "fullName": "Profil 3 Ergänzung (Ergänzungsbereich)",
+                  "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+                  "ectsMin": 0,
+                  "ectsMax": 12,
+                  "modules": [
+                    {
+                      "mId": "35713",
+                      "acronym": "EUQnfn-ERJNeldq-B",
+                      "name": "Ut eiusmod Ut ex ullamco.",
+                      "content": "Dolor amet adipiscing consectetur aliqua ea labore ad labore magna ut et eiusmod.",
+                      "skills": "Ullamco Ut aliqua elit.",
+                      "addInfo": "Ut veniam quis ullamco ullamco Lorem veniam labore laboris eiusmod consequat ipsum commodo enim eiusmod.",
+                      "priorKnowledge": "Exercitation sit nisi magna dolore tempor aliqua labore elit consequat exercitation et veniam Ut nisi.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, SS",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl F",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49880,
+                          "name": "Ut eiusmod Ut ex ullamco.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49423"
+                    },
+                    {
+                      "mId": "39380",
+                      "acronym": "PYLuts-APTBvkmf-M",
+                      "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                      "content": "Adipiscing dolore ipsum nisi ut nostrud veniam commodo veniam et.",
+                      "skills": "Consectetur dolor amet aliquip.",
+                      "addInfo": "Adipiscing consectetur adipiscing et ex ullamco do ullamco.",
+                      "priorKnowledge": "Dolore veniam aliqua eiusmod sed ea do.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "2",
+                      "duration": "1",
+                      "chair": "Lehrstuhl G",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49084,
+                          "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [
+                        {
+                          "name": "Adipiscing tempor laboris consectetur sed dolore ut."
+                        }
+                      ],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "Justo duo dolores\net ea rebum.\n",
+                      "mgId": "49423"
+                    }
+                  ],
+                  "parent": {
+                    "mgId": "49421"
+                  }
+                }
+              ],
+              "parent": {
+                "mgId": "49408"
+              }
+            }
+          ],
+          "parent": {
+            "mgId": "49407"
+          }
+        },
+        {
+          "mgId": "49410",
+          "name": "WP1 Wahlpflichtbereich 1",
+          "fullName": "WP1 Wahlpflichtbereich 1 (Wahlpflichtbereich)",
+          "desc": "",
+          "ectsMin": 6,
+          "ectsMax": 6,
+          "modules": [
+            {
+              "mId": "42196",
+              "acronym": "BUGrkn-JRZQbulz-B",
+              "name": "Amet ex aliquip consequat incididunt aliqua commodo enim enim.",
+              "content": "Quis et Lorem do.",
+              "skills": "Nisi eiusmod aliquip.",
+              "addInfo": "Aliquip ut dolore incididunt veniam laboris nostrud ea ad.",
+              "priorKnowledge": "Do nostrud ad exercitation elit incididunt consectetur sed ea ipsum commodo aliquip sit ipsum eiusmod nostrud.",
+              "ects": 6,
+              "type": "Wahlmodul",
+              "term": "WS, SS",
+              "recTerm": "1",
+              "duration": "1",
+              "chair": "Lehrstuhl Z",
+              "respPerson": {
+                "title": "Prof. Dr.",
+                "firstname": "Lorem",
+                "lastname": "Lorem"
+              },
+              "exams": [
+                {
+                  "meId": 42198,
+                  "name": "Amet ex aliquip consequat incididunt aliqua commodo enim enim.",
+                  "desc": "",
+                  "duration": 60,
+                  "share": "0,0"
+                }
+              ],
+              "prevModules": [],
+              "offerBegin": "Wintersemester 2022/2023",
+              "workload": "",
+              "mgId": "49410"
+            },
+            {
+              "mId": "42199",
+              "acronym": "ODPakt-MAJJqoau-B",
+              "name": "Labore nisi eiusmod magna tempor aliquip quis sit Lorem.",
+              "content": "Enim sit quis Ut incididunt incididunt ullamco magna ut sed magna quis laboris nisi Ut adipiscing quis enim et nisi eiusmod.",
+              "skills": "Lorem enim enim Lorem dolore ipsum.",
+              "addInfo": "Labore Lorem ullamco nisi ullamco exercitation dolor labore ullamco ullamco tempor eiusmod sit aliquip exercitation aliqua do consectetur ullamco.",
+              "priorKnowledge": "Nisi exercitation sit tempor ipsum elit ea veniam.",
+              "ects": 6,
+              "type": "Wahlmodul",
+              "term": "WS, SS",
+              "recTerm": "1",
+              "duration": "1",
+              "chair": "Lehrstuhl Z",
+              "respPerson": {
+                "title": "Prof. Dr.",
+                "firstname": "Lorem",
+                "lastname": "Lorem"
+              },
+              "exams": [
+                {
+                  "meId": 42201,
+                  "name": "Labore nisi eiusmod magna tempor aliquip quis sit Lorem.",
+                  "desc": "",
+                  "duration": 60,
+                  "share": "0,0"
+                }
+              ],
+              "prevModules": [],
+              "offerBegin": "Wintersemester 2022/2023",
+              "workload": "",
+              "mgId": "49410"
+            }
+          ],
+          "parent": {
+            "mgId": "49407"
+          }
+        }
+      ]
+    },
+    {
+      "mgId": "49801",
+      "name": "MG2 Modulgruppe 2",
+      "fullName": "MG2 Modulgruppe 2 (Modulgruppe)",
+      "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+      "ectsMin": 0,
+      "ectsMax": 0,
+      "children": [
+        {
+          "mgId": "49802",
+          "name": "WP-2 Wahlpflichtbereich",
+          "fullName": "WP-2 Wahlpflichtbereich (Wahlpflichtbereich)",
+          "desc": "",
+          "ectsMin": 0,
+          "ectsMax": 0,
+          "children": [
+            {
+              "mgId": "49803",
+              "name": "Profil 1",
+              "fullName": "Profil 1 (Profil)",
+              "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+              "ectsMin": 12,
+              "ectsMax": 24,
+              "parent": {
+                "mgId": "49802"
+              }
+            },
+            {
+              "mgId": "49804",
+              "name": "Profil 2",
+              "fullName": "Profil 2 (Profil)",
+              "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+              "ectsMin": 21,
+              "ectsMax": 42,
+              "parent": {
+                "mgId": "49802"
+              }
+            },
+            {
+              "mgId": "49807",
+              "name": "Profil 3",
+              "fullName": "Profil 3 (Profil)",
+              "desc": "",
+              "ectsMin": 30,
+              "ectsMax": 54,
+              "children": [
+                {
+                  "mgId": "49808",
+                  "name": "Profil 3 Ergänzung",
+                  "fullName": "Profil 3 Ergänzung (Ergänzungsbereich)",
+                  "desc": "<body> <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> </body>",
+                  "ectsMin": 0,
+                  "ectsMax": 0,
+                  "modules": [
+                    {
+                      "mId": "1203",
+                      "acronym": "UXUrwj-BZUXmcij-B",
+                      "name": "Exercitation tempor nisi minim labore ea nisi eiusmod.",
+                      "content": "Aliquip incididunt minim enim eiusmod elit consequat nisi.",
+                      "skills": "Amet sed ut do elit.",
+                      "addInfo": "Adipiscing sit incididunt minim ut commodo Lorem.",
+                      "priorKnowledge": "Tempor commodo ea adipiscing amet tempor et adipiscing exercitation eiusmod incididunt do et quis consectetur adipiscing.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl A",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49779,
+                          "name": "Exercitation tempor nisi minim labore ea nisi eiusmod.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 20,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "1821",
+                      "acronym": "VEDjee-SWSBgmud-M",
+                      "name": "Consequat dolor ut veniam magna exercitation sit Lorem.",
+                      "content": "Exercitation aliquip exercitation ipsum dolor ad sit exercitation.",
+                      "skills": "Exercitation eiusmod sit ipsum.",
+                      "addInfo": "Ex ut dolor enim sed labore sed ut veniam exercitation amet aliquip laboris dolor sed incididunt ex.",
+                      "priorKnowledge": "Ut ex dolore.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl D",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49222,
+                          "name": "Consequat dolor ut veniam magna exercitation sit Lorem.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": null,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "1825",
+                      "acronym": "LMMfiy-TGLYpqzv-B",
+                      "name": "Sed quis elit sit Lorem.",
+                      "content": "Ea veniam do aliqua magna nisi commodo nisi et minim adipiscing consequat aliqua elit consequat Ut enim ea do ipsum quis.",
+                      "skills": "Aliquip dolore ut aliqua magna dolor.",
+                      "addInfo": "Lorem nisi amet tempor ea aliquip ut ea Ut ex dolore commodo nisi dolor.",
+                      "priorKnowledge": "Aliquip Lorem ea consectetur ullamco incididunt ullamco.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl D",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 46859,
+                          "name": "Sed quis elit sit Lorem.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2023",
+                      "workload": "At vero eos et accusam et justo duo dolores et ea rebum.",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "1832",
+                      "acronym": "KIAgei-PNFDhvfi-M",
+                      "name": "Laboris Ut adipiscing ut ea ipsum enim adipiscing magna enim veniam nisi.",
+                      "content": "Dolor tempor Ut labore consequat do quis nostrud laboris et magna exercitation consectetur nostrud.",
+                      "skills": "Eiusmod veniam aliquip ut ad.",
+                      "addInfo": "Nostrud consequat aliquip ex laboris consectetur sed consequat nisi elit incididunt quis.",
+                      "priorKnowledge": "Enim enim adipiscing et adipiscing ea commodo ex labore nisi sit labore labore aliquip.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl D",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49226,
+                          "name": "Laboris Ut adipiscing ut ea ipsum enim adipiscing magna enim veniam nisi.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "25",
+                      "acronym": "SLPeam-DDQOzrcs-B",
+                      "name": "Aliquip adipiscing veniam nisi ut.",
+                      "content": "Elit exercitation ut dolore minim ea dolore aliqua quis ipsum minim ad labore do aliquip consectetur commodo ipsum incididunt commodo.",
+                      "skills": "Ut commodo consequat Ut adipiscing.",
+                      "addInfo": "Tempor Ut sit consectetur enim nisi dolor commodo ad.",
+                      "priorKnowledge": "Et exercitation sed adipiscing Lorem do ex adipiscing exercitation dolor ad.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl A",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 39460,
+                          "name": "Aliquip adipiscing veniam nisi ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 60,
+                          "share": "50,0"
+                        },
+                        {
+                          "meId": 39461,
+                          "name": "Aliquip adipiscing veniam nisi ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": null,
+                          "share": "50,0"
+                        }
+                      ],
+                      "prevModules": [
+                        {
+                          "name": "Ut eiusmod Ut ex ullamco."
+                        }
+                      ],
+                      "offerBegin": "Sommersemester 2020",
+                      "workload": "At vero eos et accusam et justo duo dolores et ea rebum.",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "35288",
+                      "acronym": "BIXrbs-IYIKgmdt-B",
+                      "name": "Laboris amet ullamco do nostrud tempor aliquip ullamco ut.",
+                      "content": "Laboris.",
+                      "skills": "Amet consequat ipsum amet amet ullamco.",
+                      "addInfo": "Lorem Lorem Lorem exercitation incididunt aliquip aliquip dolor Ut incididunt Lorem magna tempor aliqua tempor incididunt enim.",
+                      "priorKnowledge": "Veniam nostrud nostrud consectetur elit ad laboris eiusmod.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl B",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 48998,
+                          "name": "Laboris amet ullamco do nostrud tempor aliquip ullamco ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 120,
+                          "share": "99,0"
+                        },
+                        {
+                          "meId": 49870,
+                          "name": "Laboris amet ullamco do nostrud tempor aliquip ullamco ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 90,
+                          "share": "1,0"
+                        }
+                      ],
+                      "prevModules": [
+                        {
+                          "name": "Adipiscing tempor laboris consectetur sed dolore ut."
+                        },
+                        {
+                          "name": "Ut eiusmod Ut ex ullamco."
+                        }
+                      ],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "43197",
+                      "acronym": "YRJjrb-CWNRnknn-M",
+                      "name": "Consequat nisi amet ad quis aliquip.",
+                      "content": "Ea sit exercitation labore aliquip adipiscing ut laboris aliquip consequat ad amet ut consectetur consectetur nisi eiusmod nostrud aliqua ea adipiscing do sit consectetur.",
+                      "skills": "Aliqua aliquip do.",
+                      "addInfo": "Ullamco nisi ipsum ullamco ut commodo sed sit dolor Ut do do Lorem labore dolor exercitation sed minim ipsum.",
+                      "priorKnowledge": "Consectetur sed tempor sit dolor.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "3",
+                      "duration": "1",
+                      "chair": "Lehrstuhl E",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 43199,
+                          "name": "Consequat nisi amet ad quis aliquip.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2022",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "44001",
+                      "acronym": "RBSxgb-PQREwacw-M",
+                      "name": "Aliqua.",
+                      "content": "Nisi ea amet eiusmod ipsum sed ut et ullamco amet elit ut minim.",
+                      "skills": "Consequat ad ut nostrud.",
+                      "addInfo": "Adipiscing ad ea Ut Ut ad et consequat ut commodo labore dolore ipsum et amet ipsum consequat minim.",
+                      "priorKnowledge": "Exercitation Lorem ea sed labore aliqua Ut tempor ut ut dolore labore aliqua amet quis labore.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl A",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49776,
+                          "name": "Aliqua.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "47455",
+                      "acronym": "MHHhig-NDMSbyqb-M",
+                      "name": "Nisi incididunt sit ad Ut.",
+                      "content": "Ut dolore minim veniam et aliquip ea ex ex dolor do et sit ut ullamco eiusmod aliquip laboris consequat sit magna aliqua ullamco.",
+                      "skills": "Lorem minim commodo.",
+                      "addInfo": "Adipiscing aliquip ad adipiscing sed aliqua adipiscing nostrud aliquip do et.",
+                      "priorKnowledge": "Ex quis ullamco commodo ipsum ut do sit enim.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "",
+                      "duration": "1",
+                      "chair": "Lehrstuhl G",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 50033,
+                          "name": "Nisi incididunt sit ad Ut.",
+                          "desc": "",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "48021",
+                      "acronym": "ZZTkiy-UAOHhwvx-M",
+                      "name": "Ut nisi Ut.",
+                      "content": "Veniam et nostrud ut magna nostrud exercitation labore Lorem nostrud commodo sit exercitation labore ut amet veniam aliquip amet.",
+                      "skills": "Exercitation nisi Ut enim elit.",
+                      "addInfo": "Ipsum et eiusmod dolore laboris amet aliqua ipsum dolore elit laboris ut dolor incididunt incididunt consequat.",
+                      "priorKnowledge": "Labore tempor labore ea adipiscing enim aliquip.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "",
+                      "duration": "1",
+                      "chair": "Lehrstuhl A",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49784,
+                          "name": "Ut nisi Ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2024/2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "48503",
+                      "acronym": "IAActr-QRQSqnjf-M",
+                      "name": "Laboris eiusmod Ut dolor laboris consectetur et aliqua nostrud sed consectetur.",
+                      "content": "Aliqua sed elit dolor veniam adipiscing quis minim Ut veniam do ea aliquip exercitation sit quis veniam.",
+                      "skills": "Laboris ad ut dolore.",
+                      "addInfo": "Enim Ut quis commodo aliqua nisi labore quis exercitation ea dolor exercitation Lorem ut ex magna tempor incididunt consectetur exercitation.",
+                      "priorKnowledge": "Veniam dolor enim laboris ullamco minim ut elit amet.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl B",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 48505,
+                          "name": "Laboris eiusmod Ut dolor laboris consectetur et aliqua nostrud sed consectetur.",
+                          "desc": "",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Wintersemester 2025/2026",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "48707",
+                      "acronym": "ZPEvpd-VIFWhyey-M",
+                      "name": "Ex ullamco nisi dolore ut dolore ut amet exercitation elit ipsum.",
+                      "content": "Laboris incididunt ipsum Ut minim commodo incididunt nisi veniam aliqua ipsum veniam Ut ut do elit enim veniam.",
+                      "skills": "Laboris magna aliquip consequat.",
+                      "addInfo": "Nisi tempor laboris incididunt quis.",
+                      "priorKnowledge": "Adipiscing.",
+                      "ects": 9,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "",
+                      "duration": "1",
+                      "chair": "Lehrstuhl Z",
+                      "respPerson": {
+                        "title": "Prof. Ph.D.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 53016,
+                          "name": "Ex ullamco nisi dolore ut dolore ut amet exercitation elit ipsum.",
+                          "desc": "",
+                          "duration": 135,
+                          "share": ""
+                        }
+                      ],
+                      "prevModules": [
+                        {
+                          "name": "Laboris Lorem adipiscing aliqua ut et consequat ipsum ad."
+                        }
+                      ],
+                      "offerBegin": "Wintersemester 2025/2026",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "49283",
+                      "acronym": "LYGinm-SKGIjahj-M",
+                      "name": "Ut elit eiusmod minim dolor ad minim do consectetur.",
+                      "content": "Lorem eiusmod sit ad sed dolore adipiscing tempor veniam tempor adipiscing consequat et magna do elit Ut.",
+                      "skills": "Amet.",
+                      "addInfo": "Aliqua sit sed aliquip.",
+                      "priorKnowledge": "Labore ex consectetur Lorem.",
+                      "ects": 9,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "",
+                      "duration": "1",
+                      "chair": "Lehrstuhl H",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 52201,
+                          "name": "Ut elit eiusmod minim dolor ad minim do consectetur.",
+                          "desc": "",
+                          "duration": 90,
+                          "share": "100,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "49381",
+                      "acronym": "WTZzra-VDASioza-B",
+                      "name": "Nisi sit tempor et.",
+                      "content": "Commodo et magna nostrud et ullamco ut ad.",
+                      "skills": "Enim quis quis.",
+                      "addInfo": "Veniam ea dolore.",
+                      "priorKnowledge": "Ullamco Ut elit adipiscing minim.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl H",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49383,
+                          "name": "Nisi sit tempor et.",
+                          "desc": "",
+                          "duration": 60,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2024",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "49437",
+                      "acronym": "HCGane-YWVKwcgo-B",
+                      "name": "Commodo.",
+                      "content": "Adipiscing commodo dolore ad consectetur adipiscing ut exercitation dolor tempor Ut amet sed dolore Lorem ex nisi.",
+                      "skills": "Nostrud Ut amet ea exercitation minim.",
+                      "addInfo": "Ad labore tempor dolor nisi ex sed ullamco sed.",
+                      "priorKnowledge": "Dolor incididunt magna adipiscing Lorem Lorem veniam consequat et aliqua veniam.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "0",
+                      "duration": "",
+                      "chair": "Lehrstuhl A",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 49438,
+                          "name": "Commodo.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 30,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "(leer)",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "5",
+                      "acronym": "QLMhhj-AYNEsucn-B",
+                      "name": "Dolor adipiscing et dolore eiusmod tempor ex adipiscing aliqua quis ad ut.",
+                      "content": "Ut sit enim consectetur veniam ut eiusmod aliquip magna ut aliquip et ex magna elit Lorem ut ex ipsum sed labore ut consectetur.",
+                      "skills": "Lorem exercitation ut veniam Lorem ea.",
+                      "addInfo": "Minim quis nostrud dolor consequat.",
+                      "priorKnowledge": "Ex ipsum tempor consequat ut magna sed incididunt amet et ipsum eiusmod ea sed ea elit.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "WS, jährlich",
+                      "recTerm": "",
+                      "duration": "1",
+                      "chair": "Lehrstuhl G",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 41431,
+                          "name": "Dolor adipiscing et dolore eiusmod tempor ex adipiscing aliqua quis ad ut.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 105,
+                          "share": ""
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2021",
+                      "workload": "At vero eos et accusam et justo duo dolores et ea rebum.",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "50893",
+                      "acronym": "WNUzdh-EDFSjwan-B",
+                      "name": "Amet eiusmod incididunt tempor magna amet.",
+                      "content": "Tempor ad magna ullamco commodo minim ad labore quis.",
+                      "skills": "Laboris ex.",
+                      "addInfo": "Exercitation tempor do minim exercitation.",
+                      "priorKnowledge": "Veniam Ut.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "0",
+                      "duration": "1",
+                      "chair": "Lehrstuhl H",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 50895,
+                          "name": "Amet eiusmod incididunt tempor magna amet.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 0,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2025",
+                      "workload": "",
+                      "mgId": "49808"
+                    },
+                    {
+                      "mId": "52833",
+                      "acronym": "JUPpzu-FCXHgpdi-M",
+                      "name": "Ex veniam veniam amet magna dolore.",
+                      "content": "Ut ea consectetur et laboris ea nisi dolore nostrud ut consequat labore incididunt ut ex aliquip magna aliquip.",
+                      "skills": "Dolore ea laboris Lorem.",
+                      "addInfo": "Veniam sed eiusmod minim amet.",
+                      "priorKnowledge": "Sed quis dolore eiusmod sit exercitation minim tempor consequat veniam ut elit dolore.",
+                      "ects": 6,
+                      "type": "Wahlmodul",
+                      "term": "SS, jährlich",
+                      "recTerm": "3",
+                      "duration": "1",
+                      "chair": "Lehrstuhl E",
+                      "respPerson": {
+                        "title": "Prof. Dr.",
+                        "firstname": "Lorem",
+                        "lastname": "Lorem"
+                      },
+                      "exams": [
+                        {
+                          "meId": 52835,
+                          "name": "Ex veniam veniam amet magna dolore.",
+                          "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                          "duration": 90,
+                          "share": "0,0"
+                        }
+                      ],
+                      "prevModules": [],
+                      "offerBegin": "Sommersemester 2026",
+                      "workload": "",
+                      "mgId": "49808"
+                    }
+                  ],
+                  "parent": {
+                    "mgId": "49807"
+                  }
+                }
+              ],
+              "modules": [
+                {
+                  "mId": "1845",
+                  "acronym": "OVQicl-JYZMkolk-M",
+                  "name": "Ut nisi tempor amet.",
+                  "content": "Lorem.",
+                  "skills": "Ut.",
+                  "addInfo": "Sed consequat Lorem commodo.",
+                  "priorKnowledge": "Sit et eiusmod sit sit labore Lorem ad dolor ex eiusmod incididunt commodo consequat laboris.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl D",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 46863,
+                      "name": "Ut nisi tempor amet.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": null,
+                      "share": "0,0"
+                    },
+                    {
+                      "meId": 46864,
+                      "name": "Ut nisi tempor amet.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2021/2022",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "43530",
+                  "acronym": "FMHxmq-NWKKavyk-M",
+                  "name": "Minim amet ad laboris nostrud aliquip ullamco dolore do.",
+                  "content": "Ullamco nisi ut.",
+                  "skills": "Quis veniam.",
+                  "addInfo": "Eiusmod do aliquip Ut elit ut nisi et sit sit ullamco ad nisi exercitation ex ex minim.",
+                  "priorKnowledge": "Elit minim incididunt.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "",
+                  "duration": "1",
+                  "chair": "Lehrstuhl E",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49031,
+                      "name": "Minim amet ad laboris nostrud aliquip ullamco dolore do.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "43994",
+                  "acronym": "PNBeho-TKRWqsay-M",
+                  "name": "Enim aliqua dolore.",
+                  "content": "Sed ad labore labore ad et veniam ut tempor magna sed tempor ex.",
+                  "skills": "Ea aliquip ipsum.",
+                  "addInfo": "Amet consectetur labore quis ut consequat magna labore consectetur eiusmod eiusmod nostrud adipiscing sit dolor tempor Ut.",
+                  "priorKnowledge": "Aliquip do magna aliquip ut magna sit Ut ex ex Lorem.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl F",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 50017,
+                      "name": "Enim aliqua dolore.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "44096",
+                  "acronym": "NPPipp-ZXGGwlup-B",
+                  "name": "Nostrud amet.",
+                  "content": "Dolore ut ullamco elit labore ullamco ad consectetur sed ex nostrud minim eiusmod ipsum consectetur laboris minim consectetur aliqua.",
+                  "skills": "Ad et veniam commodo minim amet.",
+                  "addInfo": "Labore ex eiusmod dolore ut veniam.",
+                  "priorKnowledge": "Incididunt ullamco elit.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1 Semester",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 44098,
+                      "name": "Nostrud amet.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": null,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2022/2023",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "44135",
+                  "acronym": "ZCQgzv-KKHLwguj-M",
+                  "name": "Commodo incididunt sit ipsum et.",
+                  "content": "Nostrud veniam ex enim quis minim dolore et adipiscing.",
+                  "skills": "Nostrud laboris minim do ipsum ut.",
+                  "addInfo": "Nostrud quis magna exercitation quis labore ea dolor.",
+                  "priorKnowledge": "Ex.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 44137,
+                      "name": "Commodo incididunt sit ipsum et.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 0,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2022",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "45452",
+                  "acronym": "MDNoau-MCMFggja-M",
+                  "name": "Et adipiscing amet sed adipiscing commodo amet laboris adipiscing ullamco.",
+                  "content": "Eiusmod aliquip Ut dolore Lorem sed magna amet ex consectetur consequat aliquip aliqua adipiscing nisi tempor magna ut dolore.",
+                  "skills": "Ullamco exercitation.",
+                  "addInfo": "Do ea tempor incididunt ad dolor ea minim ipsum dolore do eiusmod sed incididunt sit.",
+                  "priorKnowledge": "Enim consequat sit sed dolore sit ea elit ad dolore nostrud.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "",
+                  "chair": "Lehrstuhl A",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 51462,
+                      "name": "Et adipiscing amet sed adipiscing commodo amet laboris adipiscing ullamco.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 30,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "45517",
+                  "acronym": "JEWbqn-YQYYsqsw-M",
+                  "name": "Ut.",
+                  "content": "Sed do sit minim nostrud exercitation incididunt nisi.",
+                  "skills": "Exercitation ea consequat.",
+                  "addInfo": "Ut Ut Ut ad ut ut sed laboris ipsum incididunt labore.",
+                  "priorKnowledge": "Enim enim Lorem ut aliqua ea dolore nisi sit ullamco enim enim elit.",
+                  "ects": 3,
+                  "type": "Wahlmodul",
+                  "term": "jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 45519,
+                      "name": "Ut.",
+                      "desc": "",
+                      "duration": 30,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2023",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "45517",
+                  "acronym": "JEWbqn-YQYYsqsw-M",
+                  "name": "Ut.",
+                  "content": "Sed do sit minim nostrud exercitation incididunt nisi.",
+                  "skills": "Exercitation ea consequat.",
+                  "addInfo": "Ut Ut Ut ad ut ut sed laboris ipsum incididunt labore.",
+                  "priorKnowledge": "Enim enim Lorem ut aliqua ea dolore nisi sit ullamco enim enim elit.",
+                  "ects": 3,
+                  "type": "Wahlmodul",
+                  "term": "jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 53407,
+                      "name": "Ut.",
+                      "desc": "",
+                      "duration": 30,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2025/2026",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "47482",
+                  "acronym": "FYUslp-PWRYzdhg-M",
+                  "name": "Quis.",
+                  "content": "Lorem do do consequat aliqua veniam laboris ullamco labore adipiscing ad sed aliqua tempor ad consequat.",
+                  "skills": "Labore Ut.",
+                  "addInfo": "Ullamco ipsum exercitation tempor aliqua veniam enim commodo eiusmod enim do Ut aliqua.",
+                  "priorKnowledge": "Ex quis incididunt sit incididunt consequat.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 50045,
+                      "name": "Quis.",
+                      "desc": "",
+                      "duration": 30,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "48084",
+                  "acronym": "DEGcuf-HTVPllyu-B",
+                  "name": "Consectetur Ut do Ut et enim incididunt Ut sed sit elit labore.",
+                  "content": "Ut eiusmod nostrud quis aliquip Lorem.",
+                  "skills": "Elit labore do do ut.",
+                  "addInfo": "Veniam.",
+                  "priorKnowledge": "Dolore ea aliqua sed magna ea ut laboris aliqua veniam ad tempor adipiscing laboris labore.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl G",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 51264,
+                      "name": "Consectetur Ut do Ut et enim incididunt Ut sed sit elit labore.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": null,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "48500",
+                  "acronym": "NWEkgr-CSYCdyfo-B",
+                  "name": "Aliqua ea elit ut sed enim commodo minim ipsum do aliquip veniam.",
+                  "content": "Enim aliqua ad magna enim aliquip sit ut dolor aliquip magna nisi amet incididunt sit nisi exercitation.",
+                  "skills": "Adipiscing dolore ea.",
+                  "addInfo": "Ut.",
+                  "priorKnowledge": "Laboris ullamco et ut nostrud enim eiusmod tempor enim ea magna dolor ea.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 48502,
+                      "name": "Aliqua ea elit ut sed enim commodo minim ipsum do aliquip veniam.",
+                      "desc": "",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2025/2026",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "48746",
+                  "acronym": "KSXltp-DTQWvyup-B",
+                  "name": "Laboris quis laboris.",
+                  "content": "Elit.",
+                  "skills": "Tempor.",
+                  "addInfo": "Exercitation.",
+                  "priorKnowledge": "Amet enim tempor amet dolore ut labore ipsum aliquip.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "3",
+                  "duration": "",
+                  "chair": "Lehrstuhl C",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 52326,
+                      "name": "Laboris quis laboris.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2025/2026",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49278",
+                  "acronym": "KKMbht-UXTAtagi-B",
+                  "name": "Lorem sed ex.",
+                  "content": "Ut ullamco elit laboris ea ea incididunt quis exercitation exercitation.",
+                  "skills": "Elit nostrud labore.",
+                  "addInfo": "Exercitation Lorem et sit quis.",
+                  "priorKnowledge": "Minim quis amet dolore dolor amet veniam commodo amet dolore amet.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl F",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49282,
+                      "name": "Lorem sed ex.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49293",
+                  "acronym": "UDTnji-QGZVxcnv-B",
+                  "name": "Consectetur enim nisi veniam sed.",
+                  "content": "Elit veniam enim veniam sed veniam ad aliquip nisi quis tempor consectetur amet Lorem enim.",
+                  "skills": "Ad eiusmod.",
+                  "addInfo": "Adipiscing minim incididunt exercitation ut exercitation minim ea.",
+                  "priorKnowledge": "Enim elit sit laboris laboris consectetur ad consectetur sit nostrud ut labore adipiscing ipsum.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl B",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49295,
+                      "name": "Consectetur enim nisi veniam sed.",
+                      "desc": "",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49319",
+                  "acronym": "TIRlkp-GMVGppie-B",
+                  "name": "Ullamco laboris consequat.",
+                  "content": "Magna do veniam dolore elit et.",
+                  "skills": "Et elit Lorem et.",
+                  "addInfo": "Nisi nisi consequat ut incididunt amet dolore labore elit minim ipsum elit labore consectetur minim magna ipsum sit sit ut.",
+                  "priorKnowledge": "Veniam sit nostrud do tempor ex minim do amet dolor amet.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl H",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49321,
+                      "name": "Ullamco laboris consequat.",
+                      "desc": "",
+                      "duration": 60,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49322",
+                  "acronym": "SNBmwb-CADSfkfy-M",
+                  "name": "Ut nostrud adipiscing tempor ex Ut laboris aliqua veniam elit ex.",
+                  "content": "Nisi quis tempor magna ea sed ex tempor elit ut aliqua incididunt nostrud commodo dolore.",
+                  "skills": "Sed nisi ut adipiscing ea.",
+                  "addInfo": "Elit sit ea dolor minim eiusmod aliquip labore eiusmod ut.",
+                  "priorKnowledge": "Aliqua quis nisi magna sit magna et.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl H",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49324,
+                      "name": "Ut nostrud adipiscing tempor ex Ut laboris aliqua veniam elit ex.",
+                      "desc": "",
+                      "duration": 60,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2024/2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49378",
+                  "acronym": "GUGpsu-UPRYbzyi-M",
+                  "name": "Quis amet ullamco ut et ipsum aliquip sed enim tempor exercitation.",
+                  "content": "Minim quis veniam ullamco dolor Ut quis Ut adipiscing labore dolor do et et aliqua laboris commodo enim Lorem enim.",
+                  "skills": "Dolor et veniam.",
+                  "addInfo": "Ut commodo labore ad quis ut ut ut ea veniam nostrud ex dolor ut do aliqua minim sed magna.",
+                  "priorKnowledge": "Do ut Ut ullamco laboris Ut Lorem incididunt eiusmod amet Lorem aliqua adipiscing ullamco et Lorem commodo tempor enim exercitation.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "WS, jährlich",
+                  "recTerm": "4",
+                  "duration": "1",
+                  "chair": "Lehrstuhl H",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 49380,
+                      "name": "Quis amet ullamco ut et ipsum aliquip sed enim tempor exercitation.",
+                      "desc": "",
+                      "duration": 60,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2024",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "49838",
+                  "acronym": "FRJfuy-NOGUhydu-M",
+                  "name": "Amet ipsum aliquip consequat minim do nostrud.",
+                  "content": "Eiusmod exercitation ut ad consequat sed eiusmod sit dolor Lorem ex quis.",
+                  "skills": "Incididunt enim et enim enim veniam.",
+                  "addInfo": "Enim ex nisi labore ut et Ut.",
+                  "priorKnowledge": "Dolor incididunt do consequat ad laboris ullamco do ut ut consectetur ea.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl Z",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 51184,
+                      "name": "Amet ipsum aliquip consequat minim do nostrud.",
+                      "desc": "",
+                      "duration": 140,
+                      "share": "100,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "50655",
+                  "acronym": "JPNjay-LCJWgmzg-B",
+                  "name": "Exercitation ut ex laboris labore elit enim aliqua ut ipsum.",
+                  "content": "Minim ut laboris nisi sed consectetur ut ipsum elit consequat ut Ut Ut quis et aliquip aliquip exercitation magna ad laboris veniam commodo.",
+                  "skills": "Sed.",
+                  "addInfo": "Commodo.",
+                  "priorKnowledge": "Exercitation ullamco ea quis laboris aliqua exercitation quis minim et quis amet dolore ullamco dolore commodo do.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "",
+                  "chair": "Lehrstuhl C",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 50657,
+                      "name": "Exercitation ut ex laboris labore elit enim aliqua ut ipsum.",
+                      "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                      "duration": 90,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Sommersemester 2025",
+                  "workload": "",
+                  "mgId": "49807"
+                },
+                {
+                  "mId": "50890",
+                  "acronym": "NPEwlg-ZRCKyrfl-B",
+                  "name": "Dolor eiusmod enim.",
+                  "content": "Laboris ut elit sit et ipsum nostrud eiusmod ullamco eiusmod ut consectetur amet laboris dolor ipsum aliquip.",
+                  "skills": "Consectetur et adipiscing veniam aliqua.",
+                  "addInfo": "Ut.",
+                  "priorKnowledge": "Do eiusmod laboris aliqua sed consequat tempor magna enim minim exercitation tempor nostrud tempor do minim Ut ipsum Lorem.",
+                  "ects": 6,
+                  "type": "Wahlmodul",
+                  "term": "SS, jährlich",
+                  "recTerm": "0",
+                  "duration": "1",
+                  "chair": "Lehrstuhl H",
+                  "respPerson": {
+                    "title": "Prof. Dr.",
+                    "firstname": "Lorem",
+                    "lastname": "Lorem"
+                  },
+                  "exams": [
+                    {
+                      "meId": 53053,
+                      "name": "Dolor eiusmod enim.",
+                      "desc": "",
+                      "duration": 60,
+                      "share": "0,0"
+                    }
+                  ],
+                  "prevModules": [],
+                  "offerBegin": "Wintersemester 2025/2026",
+                  "workload": "",
+                  "mgId": "49807"
+                }
+              ],
+              "parent": {
+                "mgId": "49802"
+              }
+            }
+          ],
+          "parent": {
+            "mgId": "49801"
+          }
+        },
+        {
+          "mgId": "49810",
+          "name": "WP2 Wahlpflichtbereich 2",
+          "fullName": "WP2 Wahlpflichtbereich 2 (Wahlpflichtbereich)",
+          "desc": "<body> <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> </body>",
+          "ectsMin": 0,
+          "ectsMax": 12,
+          "modules": [
+            {
+              "mId": "35731",
+              "acronym": "ZFWtwv-IXCQcvlq-M",
+              "name": "Adipiscing ipsum commodo.",
+              "content": "Labore nostrud.",
+              "skills": "Ipsum.",
+              "addInfo": "Ex.",
+              "priorKnowledge": "Nisi ad dolor exercitation laboris amet ipsum ad ut ea sit elit ea ut Lorem ut laboris commodo.",
+              "ects": 3,
+              "type": "Wahlmodul",
+              "term": "WS, jährlich",
+              "recTerm": "",
+              "duration": "1",
+              "chair": "Lehrstuhl B",
+              "respPerson": {
+                "title": "Prof. Dr.",
+                "firstname": "Lorem",
+                "lastname": "Lorem"
+              },
+              "exams": [
+                {
+                  "meId": 51489,
+                  "name": "Adipiscing ipsum commodo.",
+                  "desc": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                  "duration": 80,
+                  "share": "100,0"
+                }
+              ],
+              "prevModules": [],
+              "offerBegin": "Sommersemester 2025",
+              "workload": "",
+              "mgId": "49810"
+            },
+            {
+              "mId": "45343",
+              "acronym": "ZXQbym-DSTTtdyk-B",
+              "name": "Ut aliquip Lorem exercitation Ut aliqua exercitation.",
+              "content": "Eiusmod Lorem elit et consequat nostrud ipsum sed dolor exercitation elit elit commodo ad et exercitation aliquip elit ullamco.",
+              "skills": "Dolor dolore magna ut.",
+              "addInfo": "Ut ipsum ullamco veniam ex quis ut minim.",
+              "priorKnowledge": "Magna sed commodo ea eiusmod adipiscing sed ex et ipsum aliquip commodo enim.",
+              "ects": 3,
+              "type": "Wahlmodul",
+              "term": "SS, jährlich",
+              "recTerm": "0",
+              "duration": "1 Semester",
+              "chair": "Lehrstuhl B",
+              "respPerson": {
+                "title": "",
+                "firstname": "Lorem",
+                "lastname": "Lorem"
+              },
+              "exams": [
+                {
+                  "meId": 45345,
+                  "name": "Ut aliquip Lorem exercitation Ut aliqua exercitation.",
+                  "desc": "",
+                  "duration": 90,
+                  "share": "0,0"
+                }
+              ],
+              "prevModules": [],
+              "offerBegin": "Sommersemester 2023",
+              "workload": "",
+              "mgId": "49810"
+            },
+            {
+              "mId": "51815",
+              "acronym": "USFagl-EPRNqfoz-B",
+              "name": "Magna commodo consequat sit veniam ut.",
+              "content": "Ad ea ut dolore commodo enim consectetur sit consequat exercitation veniam nostrud do quis elit elit elit do do elit do incididunt et Lorem.",
+              "skills": "Sit ipsum.",
+              "addInfo": "Ullamco magna nostrud commodo incididunt elit incididunt nostrud ad dolore tempor.",
+              "priorKnowledge": "Consectetur enim adipiscing ea adipiscing sed ipsum.",
+              "ects": 6,
+              "type": "Wahlmodul",
+              "term": "SS, jährlich",
+              "recTerm": "0",
+              "duration": "1",
+              "chair": "Lehrstuhl C",
+              "respPerson": {
+                "title": "Prof. Dr.",
+                "firstname": "Lorem",
+                "lastname": "Lorem"
+              },
+              "exams": [
+                {
+                  "meId": 51817,
+                  "name": "Magna commodo consequat sit veniam ut.",
+                  "desc": "",
+                  "duration": 0,
+                  "share": "0,0"
+                }
+              ],
+              "prevModules": [],
+              "offerBegin": "Sommersemester 2025",
+              "workload": "",
+              "mgId": "49810"
+            }
+          ],
+          "parent": {
+            "mgId": "49801"
+          }
+        }
+      ]
+    }
+  ]
+}

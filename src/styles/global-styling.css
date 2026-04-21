@@ -1,0 +1,214 @@
+/* This stylesheet contains styling rules that apply to more than one component. 
+This ensures cognitive accessibility through consistent styling (guideline V.). */
+
+/* Svelte Material UI Overrides */
+.mdc-tab {
+    text-transform: none !important;
+    background-color: transparent !important;
+}
+
+.mdc-tab .mdc-tab__text-label {
+    color: white !important;
+}
+
+.mdc-tab .mdc-tab__icon {
+    color: white !important;
+}
+
+.mdc-tab--active {
+    border: 2px solid white !important;
+    border-radius: var(--bs-border-radius) !important;
+    font-weight: 800 !important;
+}
+
+.mdc-tab .mdc-tab__ripple::before,
+.mdc-tab .mdc-tab__ripple::after {
+    background-color: var(--fc-button-active-bg-color) !important;
+    border-color: var(--fc-button-active-border-color) !important;
+}
+
+.mdc-tab-indicator .mdc-tab-indicator__content--underline {
+    border-color: white !important;
+    border-top-width: 3px !important;
+}
+
+.mdc-tab-indicator {
+    border: 1px solid var(--fc-button-border-color) !important;
+    border-radius: var(--bs-border-radius) !important;
+}
+
+/* Margin and padding settings */
+.my-0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.ms-1 {
+    margin-right: 0.2em !important;
+}
+
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.px-2 {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+}
+
+/* Button styling */
+button {
+    background-color: var(--fc-button-bg-color) !important;
+    border-color: var(--fc-button-border-color) !important;
+    color: #fff !important;
+}
+
+button:hover {
+    background-color: var(--fc-button-hover-bg-color) !important;
+    border-color: var(--fc-button-hover-border-color) !important;
+}
+
+button:active {
+    background-color: var(--fc-button-active-bg-color) !important;
+    border-color: var(--fc-button-active-border-color) !important;
+}
+
+.nav-btn {
+    height: 48px;
+    background-color: transparent !important;
+}
+
+.btn-red {
+    background-color: var(--ub-red) !important;
+}
+
+/* Text styling */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--cus-gray-100) !important;
+    font-weight: bold !important;
+}
+
+h1 {
+    margin: 1.25em auto !important;
+    font-size: 2em !important;
+}
+
+h2 {
+    margin-bottom: 1em !important;
+    font-size: 1.75em !important;
+}
+
+h3 {
+    margin: .5em 0 !important;
+    font-size: 1.50rem !important;
+}
+
+h4 {
+    margin: .5em 0 !important;
+    font-size: 1.25rem !important;
+}
+
+.text-muted {
+    --bs-text-opacity: 1;
+    color: var(--bs-secondary-color) !important;
+}
+
+.s-text {
+    font-size: small !important;
+}
+
+.b-text {
+    font-weight: bold !important;
+}
+
+.fs-6 {
+    font-size: 1rem !important;
+}
+
+/* Chip styling */
+.chip {
+    display: inline-block;
+    color: #000;
+    padding: 0 5px;
+    font-size: .8rem;
+    border-radius: 10px;
+}
+
+.chip-interactive {
+    background-color: var(--brand-lecture-sky);
+    border: 1px solid #C3DCEF;
+    font-size: 1rem !important;
+}
+
+.ects {
+    background-color: var(--ub-yellow-20);
+    border: 1px solid var(--ub-yellow-40);
+}
+
+.ects-achieved {
+    background-color: var(--ub-green-20);
+    border: 1px solid var(--ub-green-40);
+}
+
+.compulsory {
+    background-color: var(--ub-red-20);
+    border: 1px solid var(--ub-red-40);
+}
+
+.additional {
+    background-color: #eee;
+    border: none;
+}
+
+/* Hoverable styling */
+.hoverable {
+    transition: background-color 0.3s ease !important;
+}
+
+.hoverable:hover {
+    background-color: var(--fc-event-bg-color) !important;
+    font-weight: bold !important;
+}
+
+.hoverable.isActive {
+    font-weight: 800 !important;
+}
+
+/* Miscellaneous */
+a {
+    color: rgb(0, 124.8442408377, 207.35) !important;
+    text-decoration: underline !important;
+}
+
+.bg-blue {
+    background: var(--ub-blue);
+    color: white !important;
+}
+
+.bg-blue a {
+    color: white !important;
+}
+
+.card {
+    box-shadow: var(--container-elevation-shadow);
+}
+
+.info-box {
+    color: #217178 !important;
+    background: #f3feff !important;
+    border: 1px solid #ddf3f5 !important;
+    border-radius: 4px;
+    margin: 1rem auto 2rem;
+    padding: 1rem;
+    max-width: fit-content;
+}
+
+.card-highlighter {
+    background-color: #f5f6f8 !important;
+}
