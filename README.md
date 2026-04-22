@@ -12,11 +12,14 @@
 
 ### Summary
 
-This frontend prototype constitutes the practical component of a master's thesis in the **Computing in the Humanities** program at the 
+This frontend prototype constitutes the practical component of my master's thesis in the **Computing in the Humanities** program at the 
 Otto-Friedrich-University of Bamberg. The thesis aimed to facilitate the implementation of cognitive accessibility for web developers through 
 a structured guideline. This prototype applies that guideline by extending selected components of an application called [BAULA](https://github.com/uniba-mi/baula).
 
 Some features were built with the help of GitHub Copilot (AI). Search for "Remark" to get an overview over these code snippets.
+
+The application language is **German**. The code language is **English**.
+The deployed application is available [here](https://cognitive-a11y.satishu.net/).
 
 ### Limitations
 
