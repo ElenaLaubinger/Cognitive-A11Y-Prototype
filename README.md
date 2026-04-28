@@ -1,16 +1,14 @@
-# Cognitive A11Y Prototype
+# 🎓 Cognitive A11Y Prototype
 
-## Table of Contents
-1. [Description](#description)
-2. [Tech Stack](#tech-stack)
-3. [Installation](#installation)
-4. [Project Structure](#project-structure)
-5. [Features](#features)
-6. [FAQ](#faq)
+## 📌 Table of Contents
+1. [Description](#ℹ️-description)
+2. [Tech Stack](#-tech-stack)
+3. [Installation](#-installation)
+4. [Project Structure](#-project-structure)
+5. [Development Features](#-development-features)
+6. [FAQ](#-faq)
 
-## Description
-
-### Summary
+## ℹ️ Description
 
 This frontend prototype constitutes the practical component of my master's thesis in the **Computing in the Humanities** program at the 
 Otto-Friedrich-University of Bamberg. The thesis aimed to facilitate the implementation of cognitive accessibility for web developers through 
@@ -19,30 +17,10 @@ a structured guideline. This prototype applies that guideline by extending selec
 Some features were built with the help of GitHub Copilot (AI). Search for "Remark" to get an overview over these code snippets.
 
 The application language is **German**. The code language is **English**.
+
 The deployed application is available [here](https://cognitive-a11y.satishu.net/).
 
-### Limitations
-
-<details>
-	<summary> Information on limitations and scope </summary>
-
-The modified BAULA components are:
-- the link section of the original dashboard
-- the full module catalog, including module detail modals
-- a subset of the settings, specifically the options for selecting the course handbook and course profile
-
-The implementation is based on a single degree program, **Computing in the Humanities**, and currently includes one handbook only (see `src/module_data.json` for details).
-
-The following parts are out of scope:
-- all content below the link section of the original dashboard
-- within the module modal:
-	- the dependency graph
-	- the feedback feature
-- all profile settings except the settings listed above
-
-</details>
-
-## Tech Stack
+## 🛠 Tech Stack
 
 - **JavaScript** (ES 6+, mostly) + **TypeScript** (special cases)
 - **Svelte 5** + **Vite 7**
@@ -50,18 +28,17 @@ The following parts are out of scope:
 - **Svelte Material UI (SMUI)** + **Bootstrap** / **Bootstrap Icons** for user interface design
 - **ESLint** for code quality
 
-## Installation
+## 💾 Installation
 
 ### Requirements
 
 - **Node.js** (`v25.2.1` or higher)
 - **npm** (installed with Node.js)
-- **Git** (for cloning the repository)
 
 ### Installation steps
 1. Clone the repository:
 	```bash
-	git clone 
+	git clone https://github.com/ElenaLaubinger/Cognitive-A11Y-Prototype.git
 	```
 2. Install dependencies:
 	```bash
@@ -70,30 +47,9 @@ The following parts are out of scope:
 	```
 
 	`npm run prepare` compiles the SMUI theme to `src/styles/smui.css` and should be run
-	after a fresh installation and after changes to the SMUI theme.
+	after the first installation and after changes to the SMUI theme.
 
-### Development
-
-- Start the development server 
-	```bash
-	npm run dev
-	```
-
-- Start the development server with network access
-
-	```bash
-	npm run expose
-	```
-	The network-accessible development server runs on port `5173`.
-
-### Build & Preview
-
-```bash
-npm run build
-npm run preview
-```
-
-## Project Structure
+## 📂 Project Structure
 
 The following are the most relevant parts of the project:
 
@@ -106,15 +62,37 @@ The following are the most relevant parts of the project:
    ┣ 📂 helper_modules/			# accessibility-supporting modules					
    ┣ 📂 management/				# global states, data processing, persistence
    ┣ 📂 module_catalog/			# filters, module cards, modal dialogs
-   ┣ 📂 navbar/				# navigation
-   ┗ 📂 search/				# module and app-wide search
+   ┣ 📂 navbar/					# navigation
+   ┗ 📂 search/					# module and app-wide search
 ┣ 📂 routes/				# page layouts
 ┗ 📂 styles/				# SMUI theme + global styles
 ```
-## Features
+
+## 🧰 Development Features
 
 <details>
-	<summary> In-depth information on source files and features </summary>
+	<summary> In-depth information on source files and features for development </summary>
+
+### Available Scripts
+
+- Development server 
+	```bash
+	npm run dev
+	```
+
+- Development server with network access
+
+	```bash
+	npm run expose
+	```
+	The network-accessible development server runs on port `5173`.
+
+- Bild & Preview
+  
+	```bash
+	npm run build
+	npm run preview
+	```
 
 ### Global Management
 
@@ -174,7 +152,7 @@ Defined in `src/App.svelte`:
 The application uses hash-based routing (`#/...`).
 </details>
 
-## FAQ
+## ❓ FAQ
 
 - **Styles are missing or appear inconsistent**   
 	Run `npm run prepare` again.
