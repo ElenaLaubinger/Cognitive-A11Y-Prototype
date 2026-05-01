@@ -57,7 +57,7 @@ The following are the most relevant parts of the project:
 📂 src/
 ┣ 📜 app.css				# global CSS coordinator
 ┣ 📜 App.svelte				
-┣ 📜 module_data.json		
+┣ 📜 dummy_data.json		
 ┣ 📂 lib/
    ┣ 📂 helper_modules/			# accessibility-supporting modules					
    ┣ 📂 management/				# global states, data processing, persistence
@@ -87,7 +87,7 @@ The following are the most relevant parts of the project:
 	```
 	The network-accessible development server runs on port `5173`.
 
-- Bild & Preview
+- Build & Preview
   
 	```bash
 	npm run build
